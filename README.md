@@ -9,7 +9,7 @@ I enjoy experimenting with code, solving problems, and slowly getting better one
 
 ---
 
-## 🧸 what i’m up to
+## 🍃 what i’m up to
 - 📚 working on revising school projects & assignments  
 - 🛠️ building small experiments and side projects  
 - 🧠 learning new concepts by breaking things (and fixing them!)
@@ -18,10 +18,9 @@ I enjoy experimenting with code, solving problems, and slowly getting better one
 ---
 
 ## ✨ tools & languages
-- 🐍 Python  
 - ⚙️ C++
 - ✨ Qt
-- 🎮 GDScript  
+- 🐍 Python  
 - 📄 TeX
   
 *(and always learning more!)*  
